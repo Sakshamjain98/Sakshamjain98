@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Saksham Jain</h1>
 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"  width="560px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"  width="360px"/>
 </img>
 
 - 🌱 I’m currently into **MERN & Next.JS Development**
