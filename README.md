@@ -22,8 +22,10 @@
 - ⚡ Fun fact **Coffee is the seceret of my energy..**
 
 - ⚡ Code-Joke of the day 😂
-
+<div align="center">
+  
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+</div>
 
 <br>
 <h3 align="center"> 📊 GitHub Stats </h3>
