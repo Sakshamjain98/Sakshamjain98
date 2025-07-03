@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [My Linkedin](https://www.linkedin.com/in/sakshamjain007/)
 
-- 🚀 [Click Here](https://sakshamjain.xyz) To know more about me!
+- 🚀 [Click Here](https://sakshamjain.tech) To know more about me!
 
 - ⚡ Fun fact **Coffee is the seceret of my energy..**
 
