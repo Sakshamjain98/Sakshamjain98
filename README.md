@@ -1,5 +1,5 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sakshamjain98&label=Profile%20views&theme=merko&color=0e75b6&style=flat" alt="Sakshamjain98" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshamjain98&label=Profile%20views&theme=merko&color=0e75b6&style=flat" alt="Sakshamjain98" width="220"/> </p>
 
 [Portfolio](https://sakshamajain.codes)
 
@@ -10,35 +10,38 @@
 # My Creations 🎨
 
 ### Full-Stack Applications
-- [DocMan](https://github.com/Sakshamjain98/DocMan) — Document management web app (repo)
-- [Auto-Grad](https://github.com/Sakshamjain98/Auto-Grad) — Automated grading tool (repo)
-- [SYTA The E-Sakhi](https://github.com/Sakshamjain98/SYTA-The-e-Sakhi) — Community outreach platform (repo)
-- [HomeZ Booking Website](https://github.com/Sakshamjain98/HomeZ-Booking-Website) — Booking platform (repo)
-- [KBG](https://github.com/Sakshamjain98/KBG) — (repo)
-- [ChTrust Charity Website](https://github.com/Sakshamjain98/ChTrust-Charity-Website) — Charity website (repo)
-- [Dialogues on Democracy](https://github.com/Sakshamjain98/Dialogues-on-Democracy) — Civic project (repo)
-- [ParkHub](https://github.com/Sakshamjain98/ParkHub) — Parking/booking utility (repo)
+- [Excalidraw](https://excalidraw.gamandeep.xyz/) - Real-time collaborative drawing — React frontend + Rust/Axum backend, Supabase Postgres persistence [repo](https://github.com/gamandeepsingh/Rust-Excalidraw).
+- [Superteam Builders](https://superteam.gamandeepsingh/) - A single platform for all Superteam builders.
+- [ChainUPI](https://github.com/chainupi) - Multi-chain crypto payment solution with QR payments, real-time conversion using Chainlink, and secure escrow settlement
+- [FindYourVibe](https://findyourvibe.in) - MEAN stack event platform with Razorpay integration and real-time sales dashboard
+- [ListerJI](https://www.listerji.com/) - (🔴 Not working) MERN-based product listing platform with advanced filtering and search
+- [Paybursement](https://github.com/gamandeepsingh/paybursement) - (🔴 Not working) Next.js-based expense reimbursement platform with automated workflows
+- [SAIMLDS](https://saimlds.in) - MERN-based ML/DS society website with member management
+- [INNOGEEKS](https://github.com/innogeeks) - MERN-based community platform for tech society with 250+ members
 
 ### Developer Tools & Security
-- (Add your tool projects here — link to repos if available)
+- [Solana Pay Widget](https://github.com/gamandeepsingh/solana-pay-widget) - A seamless Web3 payment solution that bridges traditional payments with Solana blockchain
+- [Storenv](https://storenv.vercel.app/) - Secure centralized solution for managing environment variables with NextAuth and CryptoJS encryption [repo](https://github.com/gamandeepsingh/storenv)
+- [PRISTINE UI](https://www.pristineui.com/) - (🔴 Not working) React component library for streamlined UI development with Tailwind CSS integration
+- [Zerodha MCP Server](https://github.com/gamandeepsingh/zerodha-claude-mcp) - A powerful Model Context Protocol (MCP) server that enables AI models to interact seamlessly with the Zerodha trading platform
 
-### Freelance & Client Work
-- [Credible Finance](https://credible.finance) — Stablecoin pay-later protocol (client)
-- [Decharge.us](https://decharge.us) — Frontend with Razorpay integration (client)
-- [Jaagran Patra](https://jaagran-patra.vercel.app/) — Civic engagement dashboards (client)
+### Freelance Projects
+- [Credible Finance](https://credible.finance) - The First Stablecoin Pay Later Protocol.
+- [Decharge.us](https://decharge.us) - Complete frontend with Razorpay integration for seamless payment processing
+- [Jaagran Patra](https://jaagran-patra.vercel.app/) - Civic engagement platform enabling MLAs to track and resolve public issues with interactive dashboards
 
 ### Event Platforms & Community
-- [Calendso](https://calendso-ebon.vercel.app/) — Scheduling platform (demo)
-- [Elanine Creatives](https://elanine.com) — SaaS site builds (client)
+- [Calendso](https://calendso-ebon.vercel.app/) - Next.js calendar scheduling platform with booking management
+- [Elanine Creatives](https://elanine.com) - React-based SaaS websites with optimized performance and modern UI/UX
 
-### Designs & UI Work
-- [PRISTINE UI MVP](https://myvibe2.gamandeeep.xyz/) — Component library MVP
-- [My Vibe](https://myvibe.gamandeeep.github.io/) — Personal animated site
+### Designs
+- [PRISTINE UI MVP](https://myvibe2.gamandeeep.xyz/) - React component library MVP
+- [My Vibe](https://myvibe.gamandeeep.xyz/) - Made a simple, smooth and animated website for fun :)
 
 <br/>
 		</td>
 		<td valign="top" width="420">
-			<img alt="Coding" width="400" src="https://images.unsplash.com/photo-1526378722049-6b0b1f5d6a2e?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.0.3&s=6d8f6e2b5cf7c3e1a1a2b9f2f5c8d8f4" />
+			<img alt="Coding" width="400" src="https://www.gamandeep.xyz/assets/ghost-HDu_pXkZ.png" />
 		</td>
 	</tr>
 </table>
