@@ -1,17 +1,13 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshamjain98&label=Profile%20views&theme=merko&color=0e75b6&style=flat" alt="Sakshamjain98" width="220"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gamandeepsingh&label=Profile%20views&theme=merko&color=0e75b6&style=flat" alt="gamandeepsingh" /> </p>
 
-[Portfolio](https://sakshamajain.codes)
-
-<table>
-	<tr>
-		<td valign="top">
+<img align="right" alt="Coding" width="400" margin="200" src="https://www.gamandeep.xyz/assets/ghost-HDu_pXkZ.png"> 
 
 # My Creations 🎨
 
 ### Full-Stack Applications
-- [Excalidraw](https://excalidraw.gamandeep.xyz/) - Real-time collaborative drawing — React frontend + Rust/Axum backend, Supabase Postgres persistence [repo](https://github.com/gamandeepsingh/Rust-Excalidraw).
-- [Superteam Builders](https://superteam.gamandeepsingh/) - A single platform for all Superteam builders.
+- [Excalidraw](https://excalidraw.gamandeeep.xyz/) - Real-time collaborative drawing — React frontend + Rust/Axum backend, Supabase Postgres persistence [repo](https://github.com/gamandeepsingh/Rust-Excalidraw).
+- [Superteam Builders](https://superteam.gamandeeep.xyz/) - A single platform for all Superteam builders.
 - [ChainUPI](https://github.com/chainupi) - Multi-chain crypto payment solution with QR payments, real-time conversion using Chainlink, and secure escrow settlement
 - [FindYourVibe](https://findyourvibe.in) - MEAN stack event platform with Razorpay integration and real-time sales dashboard
 - [ListerJI](https://www.listerji.com/) - (🔴 Not working) MERN-based product listing platform with advanced filtering and search
@@ -35,16 +31,10 @@
 - [Elanine Creatives](https://elanine.com) - React-based SaaS websites with optimized performance and modern UI/UX
 
 ### Designs
-- [PRISTINE UI MVP](https://myvibe2.gamandeeep.xyz/) - React component library MVP
-- [My Vibe](https://myvibe.gamandeeep.xyz/) - Made a simple, smooth and animated website for fun :)
+- [PRISTINE UI MVP](https://myvibe2.gamandeep.xyz/) - React component library MVP
+- [My Vibe](https://myvibe.gamandeep.xyz/) - Made a simple, smooth and animated website for fun :)
 
 <br/>
-		</td>
-		<td valign="top" width="420">
-			<img alt="Coding" width="400" src="https://www.gamandeep.xyz/assets/ghost-HDu_pXkZ.png" />
-		</td>
-	</tr>
-</table>
 
 ## Contributions & Stats
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
