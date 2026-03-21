@@ -1,9 +1,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sakshamjain98&label=Profile%20views&theme=merko&color=0e75b6&style=flat" alt="Sakshamjain98" /> </p>
 
-[Portfolio](https://sakshamjain.codes)
+[Portfolio](https://sakshamajain.codes)
 
-<img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1526378722049-6b0b1f5d6a2e?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.0.3&s=6d8f6e2b5cf7c3e1a1a2b9f2f5c8d8f4">
+<table>
+	<tr>
+		<td valign="top">
 
 # My Creations 🎨
 
@@ -31,9 +33,15 @@
 
 ### Designs & UI Work
 - [PRISTINE UI MVP](https://myvibe2.gamandeeep.xyz/) — Component library MVP
-- [My Vibe](https://myvibe.gamandeeep.xyz/) — Personal animated site
+- [My Vibe](https://myvibe.gamandeeep.github.io/) — Personal animated site
 
 <br/>
+		</td>
+		<td valign="top" width="420">
+			<img alt="Coding" width="400" src="https://images.unsplash.com/photo-1526378722049-6b0b1f5d6a2e?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.0.3&s=6d8f6e2b5cf7c3e1a1a2b9f2f5c8d8f4" />
+		</td>
+	</tr>
+</table>
 
 ## Contributions & Stats
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
