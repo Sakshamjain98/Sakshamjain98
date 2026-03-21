@@ -3,61 +3,43 @@
 
 [Portfolio](https://sakshamjain.codes)
 
+<img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1526378722049-6b0b1f5d6a2e?q=80&w=800&auto=format&fit=crop&ixlib=rb-4.0.3&s=6d8f6e2b5cf7c3e1a1a2b9f2f5c8d8f4">
+
 # My Creations 🎨
 
 ### Full-Stack Applications
-- [Excalidraw](https://excalidraw.gamandeep.xyz/) - Real-time collaborative drawing — React frontend + Rust/Axum backend, Supabase Postgres persistence [repo](https://github.com/gamandeepsingh/Rust-Excalidraw).
-- [Superteam Builders](https://superteam.gamandeep.xyz/) - A single platform for all Superteam builders.
-- [ChainUPI](https://github.com/chainupi) - Multi-chain crypto payment solution with QR payments, real-time conversion using Chainlink, and secure escrow settlement
-- [FindYourVibe](https://findyourvibe.in) - MEAN stack event platform with Razorpay integration and real-time sales dashboard
-- [ListerJI](https://www.listerji.com/) - (🔴 Not working) MERN-based product listing platform with advanced filtering and search
-- [Paybursement](https://github.com/gamandeepsingh/paybursement) - (🔴 Not working) Next.js-based expense reimbursement platform with automated workflows
-- [SAIMLDS](https://saimlds.in) - MERN-based ML/DS society website with member management
-- [INNOGEEKS](https://github.com/innogeeks) - MERN-based community platform for tech society with 250+ members
+- [DocMan](https://github.com/Sakshamjain98/DocMan) — Document management web app (repo)
+- [Auto-Grad](https://github.com/Sakshamjain98/Auto-Grad) — Automated grading tool (repo)
+- [SYTA The E-Sakhi](https://github.com/Sakshamjain98/SYTA-The-e-Sakhi) — Community outreach platform (repo)
+- [HomeZ Booking Website](https://github.com/Sakshamjain98/HomeZ-Booking-Website) — Booking platform (repo)
+- [KBG](https://github.com/Sakshamjain98/KBG) — (repo)
+- [ChTrust Charity Website](https://github.com/Sakshamjain98/ChTrust-Charity-Website) — Charity website (repo)
+- [Dialogues on Democracy](https://github.com/Sakshamjain98/Dialogues-on-Democracy) — Civic project (repo)
+- [ParkHub](https://github.com/Sakshamjain98/ParkHub) — Parking/booking utility (repo)
 
 ### Developer Tools & Security
-- [Solana Pay Widget](https://github.com/gamandeepsingh/solana-pay-widget) - A seamless Web3 payment solution that bridges traditional payments with Solana blockchain
-- [Storenv](https://storenv.vercel.app/) - Secure centralized solution for managing environment variables with NextAuth and CryptoJS encryption [repo](https://github.com/gamandeepsingh/storenv)
-- [PRISTINE UI](https://www.pristineui.com/) - (🔴 Not working) React component library for streamlined UI development with Tailwind CSS integration
-- [Zerodha MCP Server](https://github.com/gamandeepsingh/zerodha-claude-mcp) - A powerful Model Context Protocol (MCP) server that enables AI models to interact seamlessly with the Zerodha trading platform
+- (Add your tool projects here — link to repos if available)
 
-### Freelance Projects
-- [Credible Finance](https://credible.finance) - The First Stablecoin Pay Later Protocol.
-- [Decharge.us](https://decharge.us) - Complete frontend with Razorpay integration for seamless payment processing
-- [Jaagran Patra](https://jaagran-patra.vercel.app/) - Civic engagement platform enabling MLAs to track and resolve public issues with interactive dashboards
+### Freelance & Client Work
+- [Credible Finance](https://credible.finance) — Stablecoin pay-later protocol (client)
+- [Decharge.us](https://decharge.us) — Frontend with Razorpay integration (client)
+- [Jaagran Patra](https://jaagran-patra.vercel.app/) — Civic engagement dashboards (client)
 
 ### Event Platforms & Community
-- [Calendso](https://calendso-ebon.vercel.app/) - Next.js calendar scheduling platform with booking management
-- [Elanine Creatives](https://elanine.com) - React-based SaaS websites with optimized performance and modern UI/UX
+- [Calendso](https://calendso-ebon.vercel.app/) — Scheduling platform (demo)
+- [Elanine Creatives](https://elanine.com) — SaaS site builds (client)
 
-### Designs
-- [PRISTINE UI MVP](https://myvibe2.gamandeep.xyz/) - React component library MVP
-- [My Vibe](https://myvibe.gamandeep.xyz/) - Made a simple, smooth and animated website for fun :)
+### Designs & UI Work
+- [PRISTINE UI MVP](https://myvibe2.gamandeeep.xyz/) — Component library MVP
+- [My Vibe](https://myvibe.gamandeeep.xyz/) — Personal animated site
 
 <br/>
-<br/>
 
-## A more detailed graph of my contributions over the past year 📈
+## Contributions & Stats
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![GitHub stats](https://raw.githubusercontent.com/Sakshamjain98/Sakshamjain98/main/profile-3d-contrib/profile-night-green.svg)
 
-<br/>
-
 [![An image of @Sakshamjain98's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Sakshamjain98)](https://holopin.io/@Sakshamjain98)
 
-## Sakshamjain98 — GitHub projects
-
-Here are a few projects and repositories from the GitHub account `Sakshamjain98` (linked for reference):
-
-- DocMan: https://github.com/Sakshamjain98/DocMan
-- Auto-Grad: https://github.com/Sakshamjain98/Auto-Grad
-- SYTA The E-Sakhi: https://github.com/Sakshamjain98/SYTA-The-e-Sakhi
-- HomeZ Booking Website: https://github.com/Sakshamjain98/HomeZ-Booking-Website
-- KBG: https://github.com/Sakshamjain98/KBG
-- ChTrust Charity Website: https://github.com/Sakshamjain98/ChTrust-Charity-Website
-- Dialogues on Democracy: https://github.com/Sakshamjain98/Dialogues-on-Democracy
-- ParkHub: https://github.com/Sakshamjain98/ParkHub
-
-If you'd like, I can also add short descriptions or README snippets for each of the above projects.
 
