@@ -1,68 +1,63 @@
 
-<h1 align="center">Hi 👋, I'm Saksham Jain</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sakshamjain98&label=Profile%20views&theme=merko&color=0e75b6&style=flat" alt="Sakshamjain98" /> </p>
 
+[Portfolio](https://sakshamjain.codes)
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"  width="360px"/>
-</img>
+# My Creations 🎨
 
-- 🌱 I’m currently into **MERN & Next.JS Development**
+### Full-Stack Applications
+- [Excalidraw](https://excalidraw.gamandeep.xyz/) - Real-time collaborative drawing — React frontend + Rust/Axum backend, Supabase Postgres persistence [repo](https://github.com/gamandeepsingh/Rust-Excalidraw).
+- [Superteam Builders](https://superteam.gamandeep.xyz/) - A single platform for all Superteam builders.
+- [ChainUPI](https://github.com/chainupi) - Multi-chain crypto payment solution with QR payments, real-time conversion using Chainlink, and secure escrow settlement
+- [FindYourVibe](https://findyourvibe.in) - MEAN stack event platform with Razorpay integration and real-time sales dashboard
+- [ListerJI](https://www.listerji.com/) - (🔴 Not working) MERN-based product listing platform with advanced filtering and search
+- [Paybursement](https://github.com/gamandeepsingh/paybursement) - (🔴 Not working) Next.js-based expense reimbursement platform with automated workflows
+- [SAIMLDS](https://saimlds.in) - MERN-based ML/DS society website with member management
+- [INNOGEEKS](https://github.com/innogeeks) - MERN-based community platform for tech society with 250+ members
 
-- 👯 I’m looking to collaborate on **Web Applications & AI/ML Based projects**
+### Developer Tools & Security
+- [Solana Pay Widget](https://github.com/gamandeepsingh/solana-pay-widget) - A seamless Web3 payment solution that bridges traditional payments with Solana blockchain
+- [Storenv](https://storenv.vercel.app/) - Secure centralized solution for managing environment variables with NextAuth and CryptoJS encryption [repo](https://github.com/gamandeepsingh/storenv)
+- [PRISTINE UI](https://www.pristineui.com/) - (🔴 Not working) React component library for streamlined UI development with Tailwind CSS integration
+- [Zerodha MCP Server](https://github.com/gamandeepsingh/zerodha-claude-mcp) - A powerful Model Context Protocol (MCP) server that enables AI models to interact seamlessly with the Zerodha trading platform
 
-- 🥇 ⚡ Fun fact I love to make content and also to code creative stuffs!! 
+### Freelance Projects
+- [Credible Finance](https://credible.finance) - The First Stablecoin Pay Later Protocol.
+- [Decharge.us](https://decharge.us) - Complete frontend with Razorpay integration for seamless payment processing
+- [Jaagran Patra](https://jaagran-patra.vercel.app/) - Civic engagement platform enabling MLAs to track and resolve public issues with interactive dashboards
 
-- 👨‍💻 All of my projects are available at [My Repos](https://github.com/Sakshamjain98?tab=repositories)
+### Event Platforms & Community
+- [Calendso](https://calendso-ebon.vercel.app/) - Next.js calendar scheduling platform with booking management
+- [Elanine Creatives](https://elanine.com) - React-based SaaS websites with optimized performance and modern UI/UX
 
-- 📫 How to reach me **sakshambro730@gmail.com**
+### Designs
+- [PRISTINE UI MVP](https://myvibe2.gamandeep.xyz/) - React component library MVP
+- [My Vibe](https://myvibe.gamandeep.xyz/) - Made a simple, smooth and animated website for fun :)
 
-- 📄 Know about my experiences [My Linkedin](https://www.linkedin.com/in/sakshamjain007/)
+<br/>
+<br/>
 
-- 🚀 [Click Here](https://sakshamjain.tech) To know more about me!
+## A more detailed graph of my contributions over the past year 📈
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- ⚡ Fun fact **Coffee is the seceret of my energy..**
+![GitHub stats](https://raw.githubusercontent.com/Sakshamjain98/Sakshamjain98/main/profile-3d-contrib/profile-night-green.svg)
 
-- ⚡ Code-Joke of the day 😂
-<div align="center">
-  
-![Jokes Card](https://readme-jokes.vercel.app/api)
-</div>
+<br/>
 
-<br>
-<h3 align="center"> 📊 GitHub Stats </h3>
+[![An image of @Sakshamjain98's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Sakshamjain98)](https://holopin.io/@Sakshamjain98)
 
-<p align="center">
-  <a href="https://github.com/Sakshamjain98">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sakshamjain98&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sakshamjain98&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+## Sakshamjain98 — GitHub projects
 
-<p align="center">
-  <a href="https://github.com/Sakshamjain98">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshamjain98&theme=tokyonight"/>
-  </a>
-</p>
+Here are a few projects and repositories from the GitHub account `Sakshamjain98` (linked for reference):
 
-<p align="center">
-  <a href="https://github.com/Sakshamjain98">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sakshamjain98&theme=onedark&margin-w=15&margin-h=15&row=1&column=7"/>
-  </a>
-</p>
+- DocMan: https://github.com/Sakshamjain98/DocMan
+- Auto-Grad: https://github.com/Sakshamjain98/Auto-Grad
+- SYTA The E-Sakhi: https://github.com/Sakshamjain98/SYTA-The-e-Sakhi
+- HomeZ Booking Website: https://github.com/Sakshamjain98/HomeZ-Booking-Website
+- KBG: https://github.com/Sakshamjain98/KBG
+- ChTrust Charity Website: https://github.com/Sakshamjain98/ChTrust-Charity-Website
+- Dialogues on Democracy: https://github.com/Sakshamjain98/Dialogues-on-Democracy
+- ParkHub: https://github.com/Sakshamjain98/ParkHub
 
-  <br>
-  
-  
-  
- </div>
-
-<div align="center">
-
-<p align="center"><img src="https://cdn.edu.buncee.com/rackspace/bnc-assets/animations/b7b0e81603cc2b33d502bb8e6280c096/859/1428011701_wavesbyyuki_01.gif" height="180" width="700" ></img></p>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/sakshamjain007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sakshamjain98" height="30" width="40" /></a>
-<a href="https://instagram.com/itz_saksham_jain_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sakshamjain98" height="30" width="40" /></a> 
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
-</p>
+If you'd like, I can also add short descriptions or README snippets for each of the above projects.
 
