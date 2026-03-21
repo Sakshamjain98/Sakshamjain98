@@ -1,5 +1,5 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gamandeepsingh&label=Profile%20views&theme=merko&color=0e75b6&style=flat" alt="gamandeepsingh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gamandeepsingh&label=Profile%20views&theme=merko&color=0e75b6&style=flat" alt="gamandeepsingh" width="120" /> </p>
 
 <img align="right" alt="Coding" width="400" margin="200" src="https://www.gamandeep.xyz/assets/ghost-HDu_pXkZ.png"> 
 
