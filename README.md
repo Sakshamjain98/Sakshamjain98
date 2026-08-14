@@ -12,8 +12,8 @@
 - [FindYourVibe](https://findyourvibe.in) - MEAN stack event platform with Razorpay integration and real-time sales dashboard
 - [ListerJI](https://www.listerji.com/) - (🔴 Not working) MERN-based product listing platform with advanced filtering and search
 - [Paybursement](https://github.com/gamandeepsingh/paybursement) - (🔴 Not working) Next.js-based expense reimbursement platform with automated workflows
-- [SAIMLDS](https://saimlds.in) - MERN-based ML/DS society website with member management
-- [INNOGEEKS](https://github.com/innogeeks) - MERN-based community platform for tech society with 250+ members
+- [SYKXIS](https://skysix-new-main.vercel.app/) - NextJS Standalone Modern E-Commerce Platform.
+- [HomeZ Booking Website](https://osa.sakshamjain.codes/) - OSA is a modern web application built using React and Firebase, designed to deliver a fast, scalable, and serverless user experience with real-time data handling and seamless user interactions [repo](https://github.com/Sakshamjain98/HomeZ-Booking-Website).
 
 ### Developer Tools & Security
 - [Solana Pay Widget](https://github.com/gamandeepsingh/solana-pay-widget) - A seamless Web3 payment solution that bridges traditional payments with Solana blockchain
