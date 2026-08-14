@@ -22,9 +22,9 @@
 - [Zerodha MCP Server](https://github.com/gamandeepsingh/zerodha-claude-mcp) - A powerful Model Context Protocol (MCP) server that enables AI models to interact seamlessly with the Zerodha trading platform
 
 ### Freelance Projects
-- [Credible Finance](https://credible.finance) - The First Stablecoin Pay Later Protocol.
-- [Decharge.us](https://decharge.us) - Complete frontend with Razorpay integration for seamless payment processing
-- [Jaagran Patra](https://jaagran-patra.vercel.app/) - Civic engagement platform enabling MLAs to track and resolve public issues with interactive dashboards
+- [Trexind.com](https://trexind.com/) -Business management platform for local businesses.
+- [psclasses.in](https://psclasses.in/) - Online learning platform for students with courses, classes, and educational resources.
+- [chtrust.in](https://www.chtrust.in/) - Healthcare charity providing affordable diagnostics and patient support.
 
 ### Event Platforms & Community
 - [Calendso](https://calendso-ebon.vercel.app/) - Next.js calendar scheduling platform with booking management
