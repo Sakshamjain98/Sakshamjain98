@@ -16,7 +16,7 @@
 - [HomeZ Booking Website](https://osa.sakshamjain.codes/) - OSA is a modern web application built using React and Firebase, designed to deliver a fast, scalable, and serverless user experience with real-time data handling and seamless user interactions [repo](https://github.com/Sakshamjain98/HomeZ-Booking-Website).
 
 ### Developer Tools & Security
-- [Solana Pay Widget](https://github.com/gamandeepsingh/solana-pay-widget) - A seamless Web3 payment solution that bridges traditional payments with Solana blockchain
+- [DocMan](https://github.com/Sakshamjain98/DocMan) - A VS Code extension that generates and manages project documentation by parsing in-source comments and producing README and docs artifacts.
 - [Storenv](https://storenv.vercel.app/) - Secure centralized solution for managing environment variables with NextAuth and CryptoJS encryption [repo](https://github.com/gamandeepsingh/storenv)
 - [PRISTINE UI](https://www.pristineui.com/) - (🔴 Not working) React component library for streamlined UI development with Tailwind CSS integration
 - [Zerodha MCP Server](https://github.com/gamandeepsingh/zerodha-claude-mcp) - A powerful Model Context Protocol (MCP) server that enables AI models to interact seamlessly with the Zerodha trading platform
