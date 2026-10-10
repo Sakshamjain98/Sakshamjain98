@@ -1,39 +1,40 @@
+# Hi, I'm Saksham Jain 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gamandeepsingh&label=Profile%20views&theme=merko&color=0e75b6&style=flat" alt="gamandeepsingh" width="120" /> </p>
+**Full-stack developer** building enterprise SaaS, ERP and booking systems, from architecture to deployment. Associate Software Engineer at MetaUpSpace, B.Tech CSE (KIET Group of Institutions).
 
-<img align="right" alt="Coding" width="400" margin="200" src="https://www.gamandeep.xyz/assets/ghost-HDu_pXkZ.png"> 
+Open to **full-time roles and freelance projects**, in India and internationally.
 
-# My Creations 🎨
+🌐 [sakshamjain.codes](https://www.sakshamjain.codes) · 💼 [LinkedIn](https://www.linkedin.com/in/sakshamjain007) · ✉️ [sakshamjaindevs@gmail.com](mailto:sakshamjaindevs@gmail.com)
 
-### Full-Stack Applications
-- [FindYourVibe](https://findyourvibe.in) - MEAN stack event platform with Razorpay integration and real-time sales dashboard
-- [Portfolio](https://new-portfolio-mu-drab.vercel.app/) - Next.js-based Portfolio Template.
-- [SYKXIS](https://skysix-new-main.vercel.app/) - NextJS Standalone Modern E-Commerce Platform.
-- [HomeZ Booking Website](https://osa.sakshamjain.codes/) - OSA is a modern web application built using React and Firebase, designed to deliver a fast, scalable, and serverless user experience with real-time data handling and seamless user interactions [repo](https://github.com/Sakshamjain98/HomeZ-Booking-Website).
+## What I build
 
-### Developer Tools & Security
-- [DocMan](https://github.com/Sakshamjain98/DocMan) - A VS Code extension that generates and manages project documentation by parsing in-source comments and producing README and docs artifacts.
-- [Storenv](https://storenv.vercel.app/) - Secure centralized solution for managing environment variables with NextAuth and CryptoJS encryption.
+- **Enterprise systems**: ERP, warehouse management, workflow automation, role-based access, REST APIs
+- **Booking and commerce**: slot-safe booking engines, ticketing, checkout that never oversells, idempotent payment and WhatsApp webhooks
+- **Exam and EdTech platforms**: server-authoritative timers, Redis-backed sessions, rank and analytics queues
+- **Modern product UI**: Next.js, React, TypeScript, Tailwind, Radix
 
-### Freelance Projects
-- [Trexind.com](https://trexind.com/) -Business management platform for local businesses.
-- [psclasses.in](https://psclasses.in/) - Online learning platform for students with courses, classes, and educational resources.
-- [chtrust.in](https://www.chtrust.in/) - Healthcare charity providing affordable diagnostics and patient support.
+## Selected work
 
-### Event Platforms & Community
-- [Elanine Creatives](https://elanine.com) - React-based SaaS websites with optimized performance and modern UI/UX
+| Product | What it is | Case study |
+| --- | --- | --- |
+| [Trexind](https://trexind.com) | AI operating system for local businesses (clinics, restaurants, salons) | [Read](https://www.sakshamjain.codes/work/trexind) |
+| [PS Classes](https://psclasses.in) | Pharmacy exam-prep platform with test series and All-India Rank | [Read](https://www.sakshamjain.codes/work/ps-classes) |
+| [FindYourVibe](https://findyourvibe.in) | Event discovery and ticketing platform | [Read](https://www.sakshamjain.codes/work/findyourvibe) |
+| Skyxis | D2C e-commerce storefront for premium audio | [Read](https://www.sakshamjain.codes/work/skyxis) |
+| Uddeshhya | Student-led NGO website with volunteer and blood-donor portal | [Read](https://www.sakshamjain.codes/work/uddeshhya) |
 
-### Designs
-- [PRISTINE UI MVP](https://myvibe2.gamandeep.xyz/) - React component library MVP
-- [My Vibe](https://myvibe.gamandeep.xyz/) - Made a simple, smooth and animated website for fun :)
+Open-source and side projects: [ParkHub](https://github.com/Sakshamjain98/ParkHub) (parking platform, NestJS + GraphQL + Next.js), [Auto-Grad](https://github.com/Sakshamjain98/Auto-Grad) (assignment auto-grading), [DocMan](https://github.com/Sakshamjain98/DocMan) (VS Code documentation extension), [skillforge-meet](https://github.com/Sakshamjain98/skillforge-meet) (video conferencing), [HomeZ Booking](https://github.com/Sakshamjain98/HomeZ-Booking-Website), [Gallera](https://github.com/Sakshamjain98/Gallera).
 
-<br/>
+## Engineering notes
 
-## Contributions & Stats
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+Practical write-ups from production work: [stopping two people buying the last ticket](https://www.sakshamjain.codes/blog/stop-two-people-buying-the-last-ticket), [optimistic vs pessimistic locking](https://www.sakshamjain.codes/blog/optimistic-vs-pessimistic-locking), [idempotent webhooks](https://www.sakshamjain.codes/blog/idempotent-payment-and-whatsapp-webhooks).
+
+## Stack
+
+Next.js · React · TypeScript · Tailwind CSS · Node.js · Express · NestJS · MongoDB · PostgreSQL · Redis · RabbitMQ · Azure · Vercel · Docker
+
+## Contributions
 
 ![GitHub stats](https://raw.githubusercontent.com/Sakshamjain98/Sakshamjain98/main/profile-3d-contrib/profile-night-green.svg)
 
-[![An image of @Sakshamjain98's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Sakshamjain98)](https://holopin.io/@Sakshamjain98)
-
-
+[![Holopin badges](https://holopin.me/Sakshamjain98)](https://holopin.io/@Sakshamjain98)
