@@ -4,7 +4,7 @@
 
 Open to **full-time roles and freelance projects**, in India and internationally.
 
-🌐 [sakshamjain.codes](https://www.sakshamjain.codes) · 💼 [LinkedIn](https://www.linkedin.com/in/sakshamjain007) · 🐦 [X @codewithSJ](https://x.com/codewithSJ) · ✉️ [sakshamjaindevs@gmail.com](mailto:sakshamjaindevs@gmail.com)
+🌐 [sakshamjain.codes](https://www.sakshamjain.codes) · 💼 [LinkedIn](https://www.linkedin.com/in/sakshamjain007) · 🐦 [X @codewithSJ](https://x.com/codewithSJ) · ✍️ [Medium](https://medium.com/@sakshamdevs007) · 💬 [Discord](https://discord.com/users/1558746767909064730) · ✉️ [sakshamjaindevs@gmail.com](mailto:sakshamjaindevs@gmail.com)
 
 ## What I build
 
